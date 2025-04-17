@@ -1,6 +1,6 @@
 # casavi-api-task
 
-This Python project provides an interface to fetch data from the [Casavi API](https://developers.casavi.de/), specifically for:
+This Python project provides an interface to fetch data from the [Casavi API]([https://developers.casavi.de/](https://api.mycasavi.com/v2/docs/manager)), specifically for:
 - Contacts (`/contacts`)
 - Units (`/units`)
 - Properties (`/properties`)
